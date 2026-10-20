@@ -1,0 +1,13 @@
+{
+  "name": "typescript-practical-programs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solutions to 20 beginner TypeScript practical questions, with JavaScript versions and outputs.",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

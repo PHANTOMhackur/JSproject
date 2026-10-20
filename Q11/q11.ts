@@ -1,0 +1,9 @@
+const number1: number = 20;
+const number2: number = 10;
+
+console.log("Addition:", number1 + number2);
+console.log("Subtraction:", number1 - number2);
+console.log("Multiplication:", number1 * number2);
+console.log("Division:", number1 / number2);
+
+export {};
